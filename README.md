@@ -13,7 +13,7 @@ Becomes:
 
 `line-height: 200%`
 
-For percentage values with decimal, for example, 117.5%, Outlook ignores decimals and rounds down (e.g., 117.5%->117% and 117.9->117%) similarly (Math.floor js function).
+For percentage values with decimal, for example, 117.5%, Outlook ignores decimals and rounds down (e.g., 117.5%->117% and 117.9%->117%) similarly (Math.floor js function).
 
 ➤ You can use percentage value only, as long as it is not with decimal.
 
