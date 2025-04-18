@@ -27,7 +27,7 @@ becomes
 
 `font-size: 24px;`
 
-➤ Don't rely only en em value.
+➤ Don't rely only en em value. For it to work in Outlook, add the mso-line-height-alt properties with pixel or percentage value.
 
 ## The `mso-line-height-alt` properties become a simple `line-height` in Outlook.
 
