@@ -139,7 +139,7 @@ Conclusion
 - Em is simply ignored
 - Value without unit are accepted but without decimal.
 - Percentage are accepted but without decimal
-- If you use value with decimal,eg 1.5/1.5em/ combine it with percentage without decimal, or with pixel or point value
+- If you use value with decimal,eg 1.5/1.5em/, for Outlook combine it with percentage without decimal, or with pixel or point value
 - Pixel is converted to point
 - mso-line-height-rule works only with pixel (or point, but anyway Outlook convert it in point), so no need to add it if you use unitless value or percentage
 - If you use unitless value and percentage, Outlook will only take the percentage.
